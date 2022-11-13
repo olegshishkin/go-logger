@@ -1,4 +1,4 @@
-package logger1
+package logger
 
 import (
 	"errors"
